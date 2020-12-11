@@ -41,11 +41,3 @@ console.log("separated", separated)
 // filter works *kinda* like .map in that it pulls things from an array and pushes them to a new one!
 // however map just creates a new array, and leaves the original. filter actually alters the original array by taking the values!
 
-
-
-// const _ = require('lodash')
-
-// const melbBoys = ['chris', 'andrew', 'james', 'sam', 'antoine', 'hugh', 'tom', 'tim', 'richards', 'jarred', 'wade', 'morgan']
-
-// const shuffledMelbBoys = _.shuffle(melbBoys)
-// const pairs = _.chunk(shuffledMelbBoys, 2)
